@@ -1,0 +1,3 @@
+module PROJECT_STUPEN
+
+go 1.22.7
